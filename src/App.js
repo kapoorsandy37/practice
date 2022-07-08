@@ -18,7 +18,7 @@ export default class App extends Component {
     return (
       <div>
         <h2>
-          <i>Weather App</i>
+          <i>Weather App (Develop)</i>
         </h2>
         <Form {...this.props} />
         <Weather {...this.props} />
